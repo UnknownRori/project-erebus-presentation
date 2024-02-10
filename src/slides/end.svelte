@@ -35,7 +35,7 @@
 		<Layout>
 			<TextEffectSlow animate={animateTitle} duration={1000} class="text-[6rem] font-bold tracking-wide"
 				text="Fin" />
-			<div bind:this={element} data-id="line" class="h-[0.25rem] w-[0.25rem] bg-white test"></div>
+			<div bind:this={element} data-id="line" class="h-[0.25rem] w-[0.25rem] bg-white"></div>
 		</Layout>
 	</Slide>
 </Vertical>

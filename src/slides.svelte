@@ -6,6 +6,7 @@
 		Toc,
 		Problem,
 		Target,
+		Tooling,
 		Demo,
 		Algorithm,
 		Flowchart,
@@ -25,6 +26,7 @@
 	<Toc />
 	<Problem />
 	<Target />
+	<Tooling />
 	<Demo />
 	<Algorithm />
 	<Flowchart />
