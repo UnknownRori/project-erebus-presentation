@@ -51,13 +51,16 @@
 					<li>C++ 2020</li>
 				</Step>
 				<Step>
-					<li>gcc 17</li>
+					<li>g++ 17</li>
 				</Step>
 				<Step>
-					<li>Neovim</li>
+					<li>Neovim + Rori.nvim</li>
 				</Step>
 				<Step>
 					<li>Raylib</li>
+				</Step>
+				<Step>
+					<li>Emscripten</li>
 				</Step>
 			</ul>
 		</Layout>
