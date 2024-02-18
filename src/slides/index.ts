@@ -6,6 +6,7 @@ import Tooling from './tooling.svelte'
 import Demo from './demo.svelte'
 import Algorithm from './algorithm.svelte'
 import Flowchart from './flowchart.svelte'
+import Promotion from './promotion.svelte'
 import End from './end.svelte'
 
 export {
@@ -17,5 +18,6 @@ export {
 	Demo,
 	Algorithm,
 	Flowchart,
+	Promotion,
 	End,
 }

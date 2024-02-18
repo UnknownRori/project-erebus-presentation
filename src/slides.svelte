@@ -10,6 +10,7 @@
 		Demo,
 		Algorithm,
 		Flowchart,
+		Promotion,
 		End,
 	} from './slides/index'
 
@@ -30,5 +31,6 @@
 	<Demo />
 	<Algorithm />
 	<Flowchart />
+	<Promotion />
 	<End />
 </Presentation>
