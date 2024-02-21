@@ -11,9 +11,9 @@
 		</Layout>
 	</Slide>
 
-	<!-- <Slide animate animateId="flowchart"> -->
-	<!-- 	<Layout> -->
-	<!-- 		<img src={Flowchart} alt="Flowchart" /> -->
-	<!-- 	</Layout> -->
-	<!-- </Slide> -->
+	<Slide animate animateId="flowchart">
+		<Layout>
+			<img src={Flowchart} alt="Flowchart" />
+		</Layout>
+	</Slide>
 </Vertical>
